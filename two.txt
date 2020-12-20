@@ -1,1 +1,2 @@
-this is the second file added as second commit
+this is the second file added as second commit.
+Second line added as a third commit.
